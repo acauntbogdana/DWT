@@ -1,4 +1,4 @@
-# dataset-report
+# Описание
 
 Сравнение модели гистерезиса и EWMA из работы: [ 
 Grant, A., Mrazik, M., & Satchell, S. (2026). Evaluating forecasts at multiple horizons: An extension of the Diebold–Mariano approach. Journal of Forecasting, *0*, 1–14. https://doi.org/10.1002/for.70150
